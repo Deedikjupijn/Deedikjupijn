@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Deedikjupijn
-- 👀 I’m interested in wayy to many things
+![Welcome to my profile](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 <!---
 Deedikjupijn/Deedikjupijn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
