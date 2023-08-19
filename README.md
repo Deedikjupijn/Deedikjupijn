@@ -1,3 +1,6 @@
+<p align="left"><b>Visitor's Count</b></p>
+<p align="left"><img src="https://profile-counter.glitch.me/Deedikjupijn/count.svg" alt="visitor badge"/></p>
+
 ![Welcome to my profile](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 <!---
